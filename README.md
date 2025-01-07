@@ -1,2 +1,21 @@
-# forumHub
-API REST com persistência de dados - Spring Boot -  fornecer detalhes de tópicos de um forum
+# Forum Hub  
+API REST com persistência de dados - Spring Boot (3.4.1) -  fornecer detalhes de tópicos de um forum.    
+## Gerenciador de dependências  
+- Maven  
+## Linguagem  
+- Java  
+## Dependêcias  
+- Spring Web
+- Spring Boot DevTools DEVELOPER TOOLS
+- Spring Data JPA SQL
+- Flyway Migration SQL
+- PostgreSQL Driver SQL
+- Validation I/O
+- Spring Security SECURITY  
+- Lombok DEVELOPER TOOLS
+## Banco de dados
+- PostgreSQL (17). 
+## IDE
+- Eclipse 2024-12.
+## Plataforma
+- Win10 Single Language.
