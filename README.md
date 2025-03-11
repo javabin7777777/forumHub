@@ -11,11 +11,11 @@ API REST com persistência de dados - Spring Boot (3.4.1) -  fornecer detalhes d
 - Flyway Migration SQL
 - PostgreSQL Driver SQL
 - Validation I/O
-- Spring Security SECURITY  
+- Spring Security - SECURITY  
 - Lombok DEVELOPER TOOLS
-## Banco de dados
+## Banco de dados (SGBD | DBMS)
 - PostgreSQL (17). 
-## IDE
+## IDE (Ambiente Integrado de Desenvolvimento | Integrated Development Environment )
 - Eclipse 2024-12.
 ## Plataforma
 - Win10 Single Language.
